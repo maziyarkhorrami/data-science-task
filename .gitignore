@@ -1,0 +1,6 @@
+# Ignore .idea directory
+.idea/
+
+# Ignore src/__pycache__ directory
+src/__pycache__/
+.ipynb_checkpoints/
